@@ -1,2 +1,0 @@
-
-start: dotnet out/BlazorApp5.dll
